@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions for questions asked in midterm.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-85-water-and-wastewater-treatment-engineering-spring-2006/b07364baf1fcc0abd5afe3546dc1432d_midterm_exam_sol.pdf
+file: /media/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b07364baf1fcc0abd5afe3546dc1432d_midterm_exam_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm_exam_sol.pdf
 uid: b07364ba-f1fc-c0ab-d5af-e3546dc1432d

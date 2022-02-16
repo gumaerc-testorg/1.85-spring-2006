@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource includes student project work on the topic: Irvine Ranch
   Water District of California''s Water Reclaimation Plant.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-85-water-and-wastewater-treatment-engineering-spring-2006/51f6caacdb3e9e1abddd935fc7e0115e_wastewater.pdf
+file: /media/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/51f6caacdb3e9e1abddd935fc7e0115e_wastewater.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: wastewater.pdf
 uid: 51f6caac-db3e-9e1a-bddd-935fc7e0115e

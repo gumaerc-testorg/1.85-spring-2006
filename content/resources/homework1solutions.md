@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains solutions of 3 questions asked in Homework 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-85-water-and-wastewater-treatment-engineering-spring-2006/fdee8c57ca178c1dca7ab431dbed3dfb_Homework1Solutions.pdf
+file: /media/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/fdee8c57ca178c1dca7ab431dbed3dfb_Homework1Solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Homework1Solutions.pdf
 uid: fdee8c57-ca17-8c1d-ca7a-b431dbed3dfb

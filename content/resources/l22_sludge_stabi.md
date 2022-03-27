@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53836d89-9990-4e27-f37a-22369d6af070
 resourcetype: Document
 title: l22_sludge_stabi.pdf
 uid: a34fee95-4bd6-982b-bb20-89b7d1fb52ff

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d36a2ddc-f38d-dff3-ea22-23f66760c2e6
 resourcetype: Other
 title: midterm_solution.xls
 uid: 204f16f2-3014-7646-1c41-9e9817b9f21c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53836d89-9990-4e27-f37a-22369d6af070
 resourcetype: Document
 title: l11_air_striping.pdf
 uid: b1f7351a-c5ba-efc6-fd79-bf884c33c701

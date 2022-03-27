@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53836d89-9990-4e27-f37a-22369d6af070
 resourcetype: Document
 title: l22_nutrient_rem.pdf
 uid: 1710ba0b-7bd8-37f8-39de-df1673abe4ac

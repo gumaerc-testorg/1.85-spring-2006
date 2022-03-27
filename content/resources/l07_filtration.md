@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53836d89-9990-4e27-f37a-22369d6af070
 resourcetype: Document
 title: l07_filtration.pdf
 uid: 21e601a3-b2ad-1623-7aaf-f40f9b94538f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ec4043bb-731c-0e59-ffe1-ab40584f19a2
 resourcetype: Document
 title: homework5soln.pdf
 uid: 6b4cdeeb-ddc3-b7fd-2e8f-5f63bf2abcfa

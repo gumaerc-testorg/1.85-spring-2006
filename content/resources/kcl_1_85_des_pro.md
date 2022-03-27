@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dfc75ae7-3dbd-7647-ff5c-34d15efc5324
 resourcetype: Document
 title: kcl_1_85_des_pro.pdf
 uid: 59706c33-72b9-cc57-9e5b-7e121054529d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dfc75ae7-3dbd-7647-ff5c-34d15efc5324
 resourcetype: Document
 title: holly_johnson.pdf
 uid: 1e140c7b-e077-4ca2-f0e3-1f8dacd89c12

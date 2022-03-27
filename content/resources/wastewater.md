@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dfc75ae7-3dbd-7647-ff5c-34d15efc5324
 resourcetype: Document
 title: wastewater.pdf
 uid: 51f6caac-db3e-9e1a-bddd-935fc7e0115e

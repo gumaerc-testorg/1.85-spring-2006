@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 53836d89-9990-4e27-f37a-22369d6af070
 resourcetype: Document
 title: l04_react_tank_2.pdf
 uid: 7c7c24b3-efcc-b967-e25f-e9b1bda4c17f

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: dfc75ae7-3dbd-7647-ff5c-34d15efc5324
 resourcetype: Document
 title: liz_walker.pdf
 uid: 0143e800-949c-02bb-078b-93b263f2c0ab

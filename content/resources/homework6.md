@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/efdd784f9f758afb361739aee9f1299c_homework6.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/efdd784f9f758afb361739aee9f1299c_homework6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

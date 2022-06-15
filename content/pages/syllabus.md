@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section includes information of Instructor, Content, Grading,
+  Reading, and References.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

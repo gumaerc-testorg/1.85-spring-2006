@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solution of 1 question asked in Homework 7.
-file: /media/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/86eba80da4cc21447ab76aa15b8f9f79_homework7soln.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/86eba80da4cc21447ab76aa15b8f9f79_homework7soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: homework7soln.pdf
 uid: 86eba80d-a4cc-2144-7ab7-6aa15b8f9f79
 ---
+This resource contains solution of 1 question asked in Homework 7.
+

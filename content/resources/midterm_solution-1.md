@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/204f1
 file_type: application/msword
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_solution.xls
 uid: 204f16f2-3014-7646-1c41-9e9817b9f21c
 ---
 This resource contains the graphs and spreadsheet solutions for midterm.
-

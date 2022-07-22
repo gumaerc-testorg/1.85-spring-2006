@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/1ba43
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Finalexamsolutions.pdf
 uid: 1ba43647-5bcb-c799-f801-f5848e81ecf0
 ---
 This resource contains solutions of 4 questions asked in final exam.
-

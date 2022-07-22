@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b011d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework2.pdf
 uid: b011d8ec-d058-3116-df6b-7f4abb819846
 ---
 This resource contains 2 questions based on wastewater treatment system.
-

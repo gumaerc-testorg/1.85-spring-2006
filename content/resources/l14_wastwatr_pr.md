@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/fc19c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l14_wastwatr_pr.pdf
 uid: fc19c6a7-2521-0923-857c-7689f67a9fd1
 ---
 This resource includes handwritten notes of the Instructor on the topic: Wastewater Screening, Primary Treatment.
-

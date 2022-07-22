@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/076fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l10_adsor_ion_ex.pdf
 uid: 076febc4-7c47-f5b8-a8b6-a30ae7be22eb
 ---
 This resource includes handwritten notes of the Instructor on the topic: Chemical Treatment - Adsorption and Ion Exchange.
-

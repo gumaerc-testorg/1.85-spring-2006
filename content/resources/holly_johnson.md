@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/1e140
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: holly_johnson.pdf
 uid: 1e140c7b-e077-4ca2-f0e3-1f8dacd89c12
 ---
 This resource includes students project work on the topic Waste: Stabilization Pond Design for Puerto Ayora, Galapagos Islands.
-

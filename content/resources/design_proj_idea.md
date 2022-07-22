@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/f30b6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: design_proj_idea.pdf
 uid: f30b6d08-2cd5-bd28-8f88-62cd5a3b252d
 ---
 This resource includes some ideas for students to make projets.
-

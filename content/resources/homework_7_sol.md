@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/2da27
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework_7_sol.pdf
 uid: 2da27320-2139-c6b6-d109-90f0b4258618
 ---
 This resource contains solutions of 2 questions asked in Homework 7.
-

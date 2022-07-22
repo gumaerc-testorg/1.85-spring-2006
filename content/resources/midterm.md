@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/29e16
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm.pdf
 uid: 29e162c0-bea8-ea0e-b630-76f8a98d4d81
 ---
 This resource contains 5 questions based on water-quality characteristics.
-

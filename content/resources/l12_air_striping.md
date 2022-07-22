@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/e5852
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l12_air_striping.pdf
 uid: e5852880-4698-6b7d-1a23-581600714a85
 ---
 This resource includes handwritten notes of the Instructor on the topic: Gas Transfer and Air Stripping.
-

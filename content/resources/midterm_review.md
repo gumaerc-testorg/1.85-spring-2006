@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/ef48e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm_review.pdf
 uid: ef48e6d3-cd62-2b8f-c2c0-adcc652a0817
 ---
 This resource contains a review of midterm handwritten by the Instructor.
-

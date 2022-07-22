@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/25365
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l20_acti_slud_2.pdf
 uid: 25365249-3ab4-aff4-0c29-89a024d68fbb
 ---
 This resource includes handwritten notes of the Instructor on the topic: Activated Sludge Treatment.
-

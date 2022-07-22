@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/37cc6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l24_sludge_stabi.pdf
 uid: 37cc6644-2c69-b66c-822d-5bdea99f0e7d
 ---
 This resource includes handwritten notes of the Instructor on the topic: Sludge Digestion.
-

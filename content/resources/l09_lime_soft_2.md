@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/6afd6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l09_lime_soft_2.pdf
 uid: 6afd6cba-c81b-35d9-1cb3-a9fae8d18ed2
 ---
 This resource includes handwritten notes of the Instructor on the topic: Chemical Treatment - Softening: Part 2.
-

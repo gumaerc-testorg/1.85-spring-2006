@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/d087d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework8.pdf
 uid: d087d914-4445-47ea-213c-71878ab8778f
 ---
 This resource contains 2 problems based on facultative lagoon, and aeration tank.
-

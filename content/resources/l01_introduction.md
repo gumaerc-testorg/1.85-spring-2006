@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b36c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l01_introduction.pdf
 uid: b36c7c04-3167-ec09-5299-8049fd769ce8
 ---
 This resource includes lecture handouts of the Instructor on the topic: Introduction to Water Supply and Wastewater.
-

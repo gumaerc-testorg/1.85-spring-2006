@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/c79eb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework_7.pdf
 uid: c79ebee3-298d-ba4c-f768-b2fc7b51f319
 ---
 This resource contains 2 problems based on sludge wastewater treatment plant, and volume of the aeration tank.
-

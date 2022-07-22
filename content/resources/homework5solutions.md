@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/48d0e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Homework5solutions.pdf
 uid: 48d0ee7d-774b-09f2-64a8-bb9492ad367e
 ---
 This resource contains solutions of 4 questions asked in Homework 5.
-

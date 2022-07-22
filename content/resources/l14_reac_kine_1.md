@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/e2a75
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l14_reac_kine_1.pdf
 uid: e2a758ba-8f8d-ac81-4fbd-df8036560ff5
 ---
 This resource includes handwritten notes of the Instructor on the topic: Biological Reaction Kinetics - Part 1.
-

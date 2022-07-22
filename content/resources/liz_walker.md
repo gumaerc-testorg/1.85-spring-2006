@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/0143e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: liz_walker.pdf
 uid: 0143e800-949c-02bb-078b-93b263f2c0ab
 ---
 This resource includes student work on the topic: MIT Kresge Parking Lot: Development of Rain Garden to Control Stormwater Runoff.
-

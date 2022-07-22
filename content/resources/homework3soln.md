@@ -5,6 +5,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7fd14
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: homework3soln.pdf
 uid: 7fd1401e-750b-d3fa-0a46-e43eaeaa8499
 ---
 This resource contains solutions of 3 questions asked in Homework 3.
-

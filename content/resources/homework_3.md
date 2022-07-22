@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/3a143
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework_3.pdf
 uid: 3a143f25-23df-2313-c43f-01839c962df5
 ---
 This resource contains 3 questions based on testing of wastewater, and 2 textbook problems.
-

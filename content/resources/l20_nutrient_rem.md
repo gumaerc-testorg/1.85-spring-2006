@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/8b8fd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: l20_nutrient_rem.pdf
 uid: 8b8fdd5f-5cb8-398d-57b8-fa9a62dff654
 ---
 This resource includes handwritten notes of the Instructor on the topic: Nutrient Removal.
-

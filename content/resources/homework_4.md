@@ -6,6 +6,7 @@ file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/8bf90
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework_4.pdf
 uid: 8bf90304-65c7-8948-7013-329560f1bd9f
 ---
 This resource contains 2 questions based on filteration of spherical particles, and one textbook problem.
-

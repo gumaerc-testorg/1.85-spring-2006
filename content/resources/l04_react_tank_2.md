@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Reactor Tanks - Dispersed Flow, Tanks-in-series, Residence Time Distribution.'
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7c7c24b3efccb967e25fe9b1bda4c17f_l04_react_tank_2.pdf
+file_size: 710110
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 1 problem based on sludge wastewater treatment
   plant.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/4ccb74f220e960e457d71bb3e3fea975_homework7.pdf
+file_size: 27366
 file_type: application/pdf
 learning_resource_types:
 - Assignments

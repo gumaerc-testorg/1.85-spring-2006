@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Activated Sludge Treatment - Part 2.'
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/ec75004685249b22e293b79025edf3cb_l18_activ_slud_2.pdf
+file_size: 2065606
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

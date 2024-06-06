@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions of 4 questions asked in Homework 5.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/48d0ee7d774b09f264a8bb9492ad367e_Homework5solutions.pdf
+file_size: 66586
 file_type: application/pdf
 learning_resource_types:
 - Assignments

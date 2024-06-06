@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a review of midterm handwritten by the Instructor.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/ef48e6d3cd622b8fc2c0adcc652a0817_midterm_review.pdf
+file_size: 795575
 file_type: application/pdf
 learning_resource_types:
 - Exams

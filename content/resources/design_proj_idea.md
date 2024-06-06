@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes some ideas for students to make projets.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/f30b6d082cd5bd288f8862cd5a3b252d_design_proj_idea.pdf
+file_size: 64656
 file_type: application/pdf
 learning_resource_types:
 - Projects

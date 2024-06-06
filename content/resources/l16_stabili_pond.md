@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Stabilization Ponds.'
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/703bd02081ec03dd0a34327e949f93f5_l16_stabili_pond.pdf
+file_size: 450058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

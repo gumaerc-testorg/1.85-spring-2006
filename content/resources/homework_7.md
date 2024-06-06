@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 2 problems based on sludge wastewater treatment
   plant, and volume of the aeration tank.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/c79ebee3298dba4cf768b2fc7b51f319_homework_7.pdf
+file_size: 63041
 file_type: application/pdf
 learning_resource_types:
 - Assignments

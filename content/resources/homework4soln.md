@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions of 2 questions asked in Homework 4.
 file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/93afdb211bc6d3877cc0b3f45ad205ef_homework4soln.pdf
+file_size: 168693
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 questions based on professional practice, the
   wastewater treatment facilities, and source of your water.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7db392335b437d3f6cc7611cf126bd6a_homework_1.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7db392335b437d3f6cc7611cf126bd6a_homework_1.pdf
 file_size: 53864
 file_type: application/pdf
 learning_resource_types:

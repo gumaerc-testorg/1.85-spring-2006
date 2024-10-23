@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 questions based on testing of wastewater, and
   2 textbook problems.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/3a143f2523df2313c43f01839c962df5_homework_3.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/3a143f2523df2313c43f01839c962df5_homework_3.pdf
 file_size: 61302
 file_type: application/pdf
 learning_resource_types:

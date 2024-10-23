@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 2 questions based on wastewater treatment system.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b011d8ecd0583116df6b7f4abb819846_homework2.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b011d8ecd0583116df6b7f4abb819846_homework2.pdf
 file_size: 14231
 file_type: application/pdf
 learning_resource_types:

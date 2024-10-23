@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Nutrient Removal.'
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/1710ba0b7bd837f839dedf1673abe4ac_l22_nutrient_rem.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/1710ba0b7bd837f839dedf1673abe4ac_l22_nutrient_rem.pdf
 file_size: 582044
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes lecture handouts of the Instructor on the topic:
   Why Treat Water and Wastewater? Water Quality Parameters and Standards.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/52e13102f6fca898f39d0001db190bc2_l02_water_qualit.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/52e13102f6fca898f39d0001db190bc2_l02_water_qualit.pdf
 file_size: 1273230
 file_type: application/pdf
 learning_resource_types:

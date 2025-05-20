@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Biological Reaction Kinetics - Part 1.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/e2a758ba8f8dac814fbddf8036560ff5_l14_reac_kine_1.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/e2a758ba8f8dac814fbddf8036560ff5_l14_reac_kine_1.pdf
 file_size: 646925
 file_type: application/pdf
 learning_resource_types:

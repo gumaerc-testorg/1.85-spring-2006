@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Sludge Digestion.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/37cc66442c69b66c822d5bdea99f0e7d_l24_sludge_stabi.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/37cc66442c69b66c822d5bdea99f0e7d_l24_sludge_stabi.pdf
 file_size: 674301
 file_type: application/pdf
 learning_resource_types:

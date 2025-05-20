@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Chemical Treatment - Softening: Part 1.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/9e8991bd98f1c1c9e045eb87a65e8d51_l08_lime_soft_1.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/9e8991bd98f1c1c9e045eb87a65e8d51_l08_lime_soft_1.pdf
 file_size: 1558153
 file_type: application/pdf
 learning_resource_types:

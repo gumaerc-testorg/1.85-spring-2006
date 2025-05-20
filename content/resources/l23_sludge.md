@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Sludge Handling.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b28de73a519c03f42db78b7f5b6a1cf1_l23_sludge.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b28de73a519c03f42db78b7f5b6a1cf1_l23_sludge.pdf
 file_size: 800012
 file_type: application/pdf
 learning_resource_types:

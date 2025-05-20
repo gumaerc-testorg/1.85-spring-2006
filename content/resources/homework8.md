@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 2 problems based on facultative lagoon, and aeration
   tank.
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/d087d914444547ea213c71878ab8778f_homework8.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/d087d914444547ea213c71878ab8778f_homework8.pdf
 file_size: 16919
 file_type: application/pdf
 learning_resource_types:

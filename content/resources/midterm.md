@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains 5 questions based on water-quality characteristics.
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/29e162c0bea8ea0eb63076f8a98d4d81_midterm.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/29e162c0bea8ea0eb63076f8a98d4d81_midterm.pdf
 file_size: 59984
 file_type: application/pdf
 learning_resource_types:

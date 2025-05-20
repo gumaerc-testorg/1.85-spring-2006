@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Activated Sludge Treatment.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/253652493ab4aff40c2989a024d68fbb_l20_acti_slud_2.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/253652493ab4aff40c2989a024d68fbb_l20_acti_slud_2.pdf
 file_size: 2115549
 file_type: application/pdf
 learning_resource_types:

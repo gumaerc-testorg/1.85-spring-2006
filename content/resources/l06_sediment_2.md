@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Sedimentation Flocculation - Part 2.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/38e05229ffab8fc72ea356b23045514d_l06_sediment_2.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/38e05229ffab8fc72ea356b23045514d_l06_sediment_2.pdf
 file_size: 1949937
 file_type: application/pdf
 learning_resource_types:

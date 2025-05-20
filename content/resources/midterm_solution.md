@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of 5 questions asked in midterm.
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/c62d847467445a398cd8737263d7b7aa_midterm_solution.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/c62d847467445a398cd8737263d7b7aa_midterm_solution.pdf
 file_size: 194767
 file_type: application/pdf
 learning_resource_types:

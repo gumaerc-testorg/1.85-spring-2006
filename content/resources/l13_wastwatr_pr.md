@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Wastewater Screening, Primary Treatment.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/d85a9babc205aec4f713942026f9289e_l13_wastwatr_pr.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/d85a9babc205aec4f713942026f9289e_l13_wastwatr_pr.pdf
 file_size: 2264000
 file_type: application/pdf
 learning_resource_types:

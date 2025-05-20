@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions to questions asked in final exam.
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/624b46ce3e7abd60e6564ccd7a552a50_final_exam_soln.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/624b46ce3e7abd60e6564ccd7a552a50_final_exam_soln.pdf
 file_size: 118652
 file_type: application/pdf
 learning_resource_types:

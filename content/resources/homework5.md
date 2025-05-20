@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/92cd804b9bbcb7092f530267fcf48b0c_homework5.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/92cd804b9bbcb7092f530267fcf48b0c_homework5.pdf
 file_size: 55803
 file_type: application/pdf
 learning_resource_types:

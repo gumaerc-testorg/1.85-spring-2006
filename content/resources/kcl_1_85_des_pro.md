@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes students project work on the topic: Distributing
   Responsibility for Clean Water: The Total Maximum Daily Load (TMDL) Program.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/59706c3372b9cc579e5b7e121054529d_kcl_1_85_des_pro.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/59706c3372b9cc579e5b7e121054529d_kcl_1_85_des_pro.pdf
 file_size: 111058
 file_type: application/pdf
 learning_resource_types:

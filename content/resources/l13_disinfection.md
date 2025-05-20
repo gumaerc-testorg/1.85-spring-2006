@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes Instructor''s handwritten notes on the topic:
   Disinfection.'
-file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/2b40b95b1455c514493416eb44d31e15_l13_disinfection.pdf
+file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/2b40b95b1455c514493416eb44d31e15_l13_disinfection.pdf
 file_size: 1446755
 file_type: application/pdf
 learning_resource_types:

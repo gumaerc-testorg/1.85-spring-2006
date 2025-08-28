@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 17 exam questions.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/4562478194b58ca70ff16e896e54b866_final_exam.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/4562478194b58ca70ff16e896e54b866_final_exam.pdf
 file_size: 57670
 file_type: application/pdf
 learning_resource_types:

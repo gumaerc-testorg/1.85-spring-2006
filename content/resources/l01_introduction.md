@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes lecture handouts of the Instructor on the topic:
   Introduction to Water Supply and Wastewater.'
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b36c7c043167ec0952998049fd769ce8_l01_introduction.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/b36c7c043167ec0952998049fd769ce8_l01_introduction.pdf
 file_size: 2055933
 file_type: application/pdf
 learning_resource_types:

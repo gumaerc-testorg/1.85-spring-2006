@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of 3 questions asked in Homework 3.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7fd1401e750bd3fa0a46e43eaeaa8499_homework3soln.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/7fd1401e750bd3fa0a46e43eaeaa8499_homework3soln.pdf
 file_size: 84622
 file_type: application/pdf
 learning_resource_types:

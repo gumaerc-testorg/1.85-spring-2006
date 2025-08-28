@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Filtration.'
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/21e601a3b2ad16237aaff40f9b94538f_l07_filtration.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/21e601a3b2ad16237aaff40f9b94538f_l07_filtration.pdf
 file_size: 2393487
 file_type: application/pdf
 learning_resource_types:

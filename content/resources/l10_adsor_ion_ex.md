@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes handwritten notes of the Instructor on the topic:
   Chemical Treatment - Adsorption and Ion Exchange.'
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/076febc47c47f5b8a8b6a30ae7be22eb_l10_adsor_ion_ex.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/076febc47c47f5b8a8b6a30ae7be22eb_l10_adsor_ion_ex.pdf
 file_size: 2285108
 file_type: application/pdf
 learning_resource_types:

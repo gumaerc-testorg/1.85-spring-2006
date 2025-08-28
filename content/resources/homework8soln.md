@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains solutions of 2 questions asked in Homework 8.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/38ef7f0fd932170ee6e79148a28b5c00_homework8soln.pdf
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/38ef7f0fd932170ee6e79148a28b5c00_homework8soln.pdf
 file_size: 34239
 file_type: application/pdf
 learning_resource_types:

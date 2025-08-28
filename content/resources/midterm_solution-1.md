@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the graphs and spreadsheet solutions for midterm.
-file: /courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/204f16f2301476461c419e9817b9f21c_midterm_solution.xls
+file: /ol-ocw-studio-app/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/204f16f2301476461c419e9817b9f21c_midterm_solution.xls
 file_size: 24576
 file_type: application/msword
 learning_resource_types:
